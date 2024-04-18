@@ -20,9 +20,9 @@ To run the Avengers Text-Based Adventure Game, follow these steps:
 4. Follow the on-screen prompts to make choices and progress through the game.
 
 # Features
-  #Multiple endings based on your decisions.
-  #Unique challenges tailored to each Avenger's abilities and traits.
-  #Engaging storyline that immerses you in the Marvel Universe.
+1. Multiple endings based on your decisions.
+2. Unique challenges tailored to each Avenger's abilities and traits.
+3. Engaging storyline that immerses you in the Marvel Universe.
 
 # How to Contribute
 
