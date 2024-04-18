@@ -14,7 +14,7 @@ Embark on a thrilling mission with your favorite Avengers hero in the "Avengers 
 # Running the Game
 
 To run the Avengers Text-Based Adventure Game, follow these steps:
-1. Open your command line interface (CLI).
+1. Open your command line interface.
 2. Change the directory to where you've saved the game files, using a command like: `cd path_to_directory`.
 3. Execute the game by running: `python avengers_game.py`.
 4. Follow the on-screen prompts to make choices and progress through the game.
