@@ -26,9 +26,9 @@ To run the Avengers Text-Based Adventure Game, follow these steps:
 
 # How to Contribute
 
-  Bug Fixes: 
-  New Features:
-  Feedback: 
+-   Bug Fixes 
+-   New Features
+-   Feedback
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
