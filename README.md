@@ -2,7 +2,7 @@
 
 # Avengers Text-Based Adventure Game
 
-## DescriptionEmbark on a thrilling mission with your favorite Avengers hero in the "Avengers Text-Based Adventure Game." In this interactive game, you will choose to play as Iron Man, Thor, or Captain America  to thwart a villain's devious plans. Your decisions will influence the narrative and the outcome of the game, providing a unique adventure each time you play. Prepare to defend the world and ensure its safety against imminent threats!
+# Description: Embark on a thrilling mission with your favorite Avengers hero in the "Avengers Text-Based Adventure Game." In this interactive game, you will choose to play as Iron Man, Thor, or Captain America  to thwart a villain's devious plans. Your decisions will influence the narrative and the outcome of the game, providing a unique adventure each time you play. Prepare to defend the world and ensure its safety against imminent threats!
 
 # Getting Started
 
@@ -28,12 +28,5 @@ To run the Avengers Text-Based Adventure Game, follow these steps:
   New Features:
   Feedback: 
 
-
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgments
-- Marvel for creating characters and a universe that inspires millions.
-- The Python community for their invaluable resources.
-
-Enjoy playing and contributing to the Avengers Text-Based Adventure Game!
